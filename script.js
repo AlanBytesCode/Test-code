@@ -5,4 +5,4 @@ xhr.open('GET', 'data.json');
 
 console.log(xhr.readyState)
 
-xhr.sent();
+xhr.sent()
